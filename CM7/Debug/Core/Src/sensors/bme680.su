@@ -1,0 +1,6 @@
+../Core/Src/sensors/bme680.c:22:15:bme680_i2c_read	48	static
+../Core/Src/sensors/bme680.c:36:15:bme680_i2c_write	48	static
+../Core/Src/sensors/bme680.c:47:13:bme680_delay_us	24	static
+../Core/Src/sensors/bme680.c:57:15:BME680_Init	40	static
+../Core/Src/sensors/bme680.c:114:15:BME680_ReadData	48	static
+../Core/Src/sensors/bme680.c:147:15:BME680_TestCommunication	16	static

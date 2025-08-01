@@ -1,0 +1,7 @@
+../Core/Src/sensors/mmc56x3.c:12:26:mmc56x3_write_reg	1
+../Core/Src/sensors/mmc56x3.c:17:26:mmc56x3_read_reg	1
+../Core/Src/sensors/mmc56x3.c:22:26:mmc56x3_read_multiple	1
+../Core/Src/sensors/mmc56x3.c:27:13:mmc56x3_convert_20bit	1
+../Core/Src/sensors/mmc56x3.c:39:15:MMC56X3_Init	4
+../Core/Src/sensors/mmc56x3.c:93:15:MMC56X3_ReadData	5
+../Core/Src/sensors/mmc56x3.c:125:15:MMC56X3_TestCommunication	3

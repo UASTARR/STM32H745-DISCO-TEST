@@ -1,0 +1,7 @@
+../Core/Src/sensors/sgp30.c:10:26:sgp30_write_cmd	32	static
+../Core/Src/sensors/sgp30.c:17:26:sgp30_read_data	24	static
+../Core/Src/sensors/sgp30.c:26:16:sgp30_crc8	24	static
+../Core/Src/sensors/sgp30.c:46:13:sgp30_check_crc	32	static
+../Core/Src/sensors/sgp30.c:61:15:SGP30_Init	8	static
+../Core/Src/sensors/sgp30.c:90:15:SGP30_ReadData	24	static
+../Core/Src/sensors/sgp30.c:137:15:SGP30_TestCommunication	16	static

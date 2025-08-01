@@ -1,0 +1,11 @@
+../Core/Inc/sensors/mmc56x3.h:57:21:MMC56X3_GetMagnetic_uT	16	static
+../Core/Inc/sensors/mmc56x3.h:62:21:MMC56X3_GetMagnitude	24	static
+../Core/Inc/sensors/mmc56x3.h:67:21:MMC56X3_GetHeading	24	static
+../Core/Src/main.c:86:5:_write	24	static
+../Core/Src/main.c:97:5:main	120	static
+../Core/Src/main.c:318:6:SystemClock_Config	120	static
+../Core/Src/main.c:379:13:MX_I2C3_Init	8	static
+../Core/Src/main.c:427:13:MX_I2C4_Init	8	static
+../Core/Src/main.c:475:13:MX_USART3_UART_Init	8	static
+../Core/Src/main.c:523:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:549:6:Error_Handler	4	static,ignoring_inline_asm

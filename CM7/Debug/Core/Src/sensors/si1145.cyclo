@@ -1,0 +1,8 @@
+../Core/Src/sensors/si1145.c:12:26:si1145_write_reg	1
+../Core/Src/sensors/si1145.c:18:26:si1145_read_reg	1
+../Core/Src/sensors/si1145.c:24:17:si1145_read16	2
+../Core/Src/sensors/si1145.c:35:26:si1145_write_param	3
+../Core/Src/sensors/si1145.c:53:13:si1145_reset	1
+../Core/Src/sensors/si1145.c:74:15:SI1145_Init	5
+../Core/Src/sensors/si1145.c:131:15:SI1145_ReadData	3
+../Core/Src/sensors/si1145.c:149:15:SI1145_TestCommunication	2

@@ -1,0 +1,11 @@
+../Core/Inc/sensors/mmc56x3.h:57:21:MMC56X3_GetMagnetic_uT	1
+../Core/Inc/sensors/mmc56x3.h:62:21:MMC56X3_GetMagnitude	1
+../Core/Inc/sensors/mmc56x3.h:67:21:MMC56X3_GetHeading	2
+../Core/Src/main.c:86:5:_write	1
+../Core/Src/main.c:97:5:main	16
+../Core/Src/main.c:318:6:SystemClock_Config	4
+../Core/Src/main.c:379:13:MX_I2C3_Init	4
+../Core/Src/main.c:427:13:MX_I2C4_Init	4
+../Core/Src/main.c:475:13:MX_USART3_UART_Init	5
+../Core/Src/main.c:523:13:MX_GPIO_Init	1
+../Core/Src/main.c:549:6:Error_Handler	1
